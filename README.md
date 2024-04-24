@@ -1,12 +1,12 @@
-# ONDC Build for Bharat Hackathon Project
+# ONDC Build for Dedicated Mentoring Program (DMP) 2024 
 
 ## Project Description
 Our project is an ONDC (Open Network for Digital Commerce) site integrated with OpenStreetMap. The aim is to provide a seamless digital commerce experience for businesses and consumers across Bharat. The platform leverages ONDC APIs for data exchange and integration with various digital commerce services.
 
 ## Team Members
-- *Team Leader:* Rishi Mondal (Full Stack Developer)
+- *Team Leader:* Ayush Satpathy (Full Stack Developer)
 - *Debanjan Mukherjee:* Frontend Developer
-- *Ayush Satpathy:* Frontend Developer
+- *Rishi Mondal:* Frontend Developer
 - *Rohit Gupta:* Backend Developer
 
 ## Features
