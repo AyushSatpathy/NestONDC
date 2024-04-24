@@ -6,7 +6,7 @@ Our project is an ONDC (Open Network for Digital Commerce) site integrated with 
 ## Team Members
 - *Team Leader:* Rishi Mondal (Full Stack Developer)
 - *Debanjan Mukherjee:* Frontend Developer
-- *Animesh Barik:* Frontend Developer
+- *Ayush Satpathy:* Frontend Developer
 - *Rohit Gupta:* Backend Developer
 
 ## Features
